@@ -1,0 +1,16 @@
+algorithmia>=1.0.0,<2.0
+six
+Cython
+numpy==1.17
+opencv-python
+torch>=1.4
+matplotlib
+Pillow
+tensorboard
+PyYAML>=5.3
+torchvision
+scipy
+tqdm
+git+https://github.com/cocodataset/cocoapi.git#subdirectory=PythonAPI
+qtmodern
+imutils
