@@ -10,7 +10,7 @@
   "dependencies": {
     "@vue/cli-plugin-babel": "4.1.1",
     "algorithmia": "0.3.10",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "buefy": "^0.8.20",
     "vue": "^2.6.11",
     "vue-html5-camera": "0.4.0",
